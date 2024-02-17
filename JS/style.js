@@ -28,7 +28,7 @@ let lingeswal=document.getElementById('linge');
 amaswal.addEventListener("click",function(){
     Swal.fire({
       title: 'Projet Ama',
-      text: "Ce projet avait pour but de créer un site internet pour une garderie montargoise, sur ce projet j'avais pour principale tâche de m'occuper de la partie PDF et envoie de mail ce qui m'a permis de me familiariser avec différentes bibliothèques et bases de données",
+      text: "Ce projet avait pour but de créer un site internet pour une garderie montargoise. J'avais pour principale tâche de m'occuper de la partie PDF et envoie de mail ce qui m'a permis de me familiariser avec différentes bibliothèques et bases de données",
       icon: 'info',
       confirmButtonText: 'Retour'
     })
@@ -36,7 +36,7 @@ amaswal.addEventListener("click",function(){
 coiffeurswal.addEventListener("click",function(){
     Swal.fire({
       title: 'Projet SoSoBarber',
-      text: 'Ce projet est actuellement en cours et sera publié très prochainement.Ce projet à pour but la création de A à Z un site internet pour un coiffeur montargeois, sur ce site est possible de prendre rendez-vous et ainsi avoir un agenda pour le coiffeur et le client',
+      text: "Ce projet est actuellement en cours et sera publié très prochainement.Il a pour but la création d' un site internet pour un coiffeur montargeois, sur ce site est possible de prendre rendez-vous et ainsi avoir un agenda pour le coiffeur et le client",
       icon: 'info',
       confirmButtonText: 'Retour'
     })
@@ -44,7 +44,7 @@ coiffeurswal.addEventListener("click",function(){
 cookiewal.addEventListener("click",function(){
     Swal.fire({
       title: 'Projet Popotte Cookie',
-      text: "Ce projet est actuellement en cours et sera publié très prochainement.Ce projet à pour but la création de A à Z d'un site de vente de cookie sur ce site est possible de passer commande et possède une gestion de compte.",
+      text: "Ce projet est actuellement en cours et sera publié très prochainement.Il a pour but la création d' un site internet où il sera possible de passer commande et de créer un compte client",
       icon: 'info',
       confirmButtonText: 'Retour'
     })
